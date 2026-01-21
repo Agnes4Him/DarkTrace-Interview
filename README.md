@@ -129,7 +129,4 @@ later to separate observability from the main workloads
 
 ########################################################################
 
-## Architectural Diagram
-
-![Architectural Diagram](./architecture/Kubernetes-Architecture.png)
 
