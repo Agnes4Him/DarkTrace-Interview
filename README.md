@@ -127,7 +127,7 @@ later to separate observability from the main workloads
 * To integrate service mesh to provide extra layer of security
 
 
-#############################################################################################
+#####################################################################
 
 ## Architectural Diagram
 
