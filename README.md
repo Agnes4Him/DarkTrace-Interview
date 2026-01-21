@@ -127,9 +127,9 @@ later to separate observability from the main workloads
 * To integrate service mesh to provide extra layer of security
 
 
-#####################################################################
+########################################################################
 
 ## Architectural Diagram
 
-![Architecture](./architecture/Kubernetes-Architecture.png)
+![Architectural Diagram](./architecture/Kubernetes-Architecture.png)
 
